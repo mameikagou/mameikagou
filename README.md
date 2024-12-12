@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mameikagou&langs_count=10&layout=donut-vertical"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mameikagou&hide=go&langs_count=10&layout=donut-vertical"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mameikagou&langs_count=10&layout=donut-vertical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mameikagou&hide=go&langs_count=10&layout=donut-vertical"/>
   </picture>
 <!-- <picture>
   <source
