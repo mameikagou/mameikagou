@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mr.lonely 👋
 
-Building frontend experiences, AI tools, and fun side projects.
+曾在 **抖音风控**、**美团服务零售** 与 **美团基础研发平台** 实习，现就职于 **美团闪购技术部**。
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
