@@ -57,3 +57,10 @@ Here are some ideas to get you started:
   
 </picture>
  -->
+
+<a href="https://ghfind.com/u/mameikagou?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/mameikagou?theme=dark&amp;lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/mameikagou?theme=light&amp;lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
