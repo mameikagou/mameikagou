@@ -1,56 +1,63 @@
-## Hi there 👋It's Mr.lonely
+<div align="center">
 
-<!--
-**mameikagou/mameikagou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Mr.lonely 👋
 
-Here are some ideas to get you started:
+Building frontend experiences, AI tools, and fun side projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
 
-### things I code with
+<br />
 
-<p>
-  <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&amp;logo=anthropic&amp;logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Codex-000000?style=flat-square&amp;logo=gnometerminal&amp;logoColor=white" alt="Codex" />
+<img src="https://img.shields.io/badge/Ghostty-3551F3?style=flat-square&amp;logo=ghostty&amp;logoColor=white" alt="Ghostty" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="Visual Studio Code" />
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="macOS" />
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&amp;logo=windows11&amp;logoColor=white" alt="Windows" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Quant_Research-131722?style=flat-square&amp;logo=tradingview&amp;logoColor=white" alt="Quantitative Research" />
+<img src="https://img.shields.io/badge/Qlib-0078D4?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Microsoft Qlib" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter" />
+
+</div>
+
+## GitHub at a glance
+
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=mameikagou&amp;show_icons=true&amp;rank_icon=github&amp;hide_border=true&amp;theme=transparent" alt="Mr.lonely's GitHub statistics" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mameikagou&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent" alt="Mr.lonely's most-used languages" />
+  </a>
 </p>
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff" />
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mameikagou&amp;theme=github-dark&amp;hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mameikagou&amp;theme=github-compact&amp;hide_border=true" alt="Mr.lonely's contribution activity graph" />
+    </picture>
+  </a>
 </p>
 
-<p>
-  <img alt="Node" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff" />
+## GitHub Roast
+
+<p align="center">
+  <a href="https://ghfind.com/u/mameikagou?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/mameikagou?theme=dark&amp;lang=zh" />
+      <img src="https://ghfind.com/api/card/mini/mameikagou?theme=light&amp;lang=zh" alt="GitHub Roast 评分卡" width="440" />
+    </picture>
+  </a>
 </p>
-
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mameikagou&langs_count=10&layout=donut-vertical"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mameikagou&langs_count=10&layout=donut-vertical"/>
-  </picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mameikagou"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mameikagou"/>
-  
-</picture>
-
-<a href="https://ghfind.com/u/mameikagou?ref=badge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/mameikagou?theme=dark&amp;lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/mameikagou?theme=light&amp;lang=zh" alt="GitHub Roast 评分卡" width="440" />
-  </picture>
-</a>
