@@ -2,7 +2,18 @@
 
 # Hi there, I'm Mr.lonely 👋
 
-Building full stack experiences, AI tools, quant ,and fun side projects.
+Building full-stack experiences, AI tools, quant systems, and fun side projects.
+
+Past chapters: Risk Control at Douyin, then Service Retail and Infrastructure R&D at Meituan. Now building at Meituan Instashopping Tech.
+
+<a href="https://www.douyin.com/">
+  <img src="https://img.shields.io/badge/Douyin-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="Douyin" />
+</a>
+<a href="https://www.meituan.com/">
+  <img src="https://img.shields.io/badge/Meituan-FFD100?style=flat-square&amp;logo=meituan&amp;logoColor=black" alt="Meituan" />
+</a>
+
+<br />
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
