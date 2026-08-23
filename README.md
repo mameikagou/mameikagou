@@ -42,6 +42,12 @@ Past chapters: Risk Control at Douyin, then Service Retail and Infrastructure R&
 
 </div>
 
+## Codex Token Activity
+
+<p align="center">
+  <img width="100%" src="./assets/codex-token-activity.svg" alt="Daily Codex token activity over the last 365 days" />
+</p>
+
 ## GitHub at a glance
 
 <p align="center">
