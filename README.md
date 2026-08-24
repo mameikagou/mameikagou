@@ -4,7 +4,7 @@
 
 Building full-stack experiences, AI tools, quant systems, and fun side projects.
 
-Past chapters: Risk Control at Douyin, then Service Retail and Infrastructure R&D at Meituan. Now building at Meituan Instashopping Tech.
+Internship lore: R&D at Douyin Risk Control, Meituan Service Retail, and Meituan Infrastructure R&D Platform. Now shipping instant-retail systems at Meituan Instashopping Tech.
 
 <a href="https://www.douyin.com/">
   <img src="https://img.shields.io/badge/Douyin-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="Douyin" />
