@@ -4,7 +4,7 @@
 
 Building full-stack experiences, AI tools, quant systems, and fun side projects.
 
-My R&D internships took me through Douyin Risk Control, Meituan Service Retail, and Meituan Infrastructure R&D Platform. I now build instant-retail systems at Meituan Instashopping Tech.
+I previously interned at Douyin Risk Control, Meituan Service Retail, and Meituan Infrastructure R&D Platform, and currently work at Meituan Instashopping Tech.
 
 <a href="https://www.douyin.com/">
   <img src="https://img.shields.io/badge/Douyin-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="Douyin" />
