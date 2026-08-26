@@ -30,9 +30,9 @@
   <text class="heading" x="24" y="27">Codex Token Activity</text>
   <text class="caption" x="205" y="27">daily usage · last 365 days</text>
   <rect class="day level-0" x="24" y="48" width="11" height="11" rx="2"><title>2025-08-24</title></rect>
-  <rect class="day level-0" x="24" y="62" width="11" height="11" rx="2"><title>2025-08-25: 0.00%</title></rect>
-  <rect class="day level-0" x="24" y="76" width="11" height="11" rx="2"><title>2025-08-26: 0.00%</title></rect>
-  <rect class="day level-0" x="24" y="90" width="11" height="11" rx="2"><title>2025-08-27: 0.00%</title></rect>
+  <rect class="day level-0" x="24" y="62" width="11" height="11" rx="2"><title>2025-08-25</title></rect>
+  <rect class="day level-0" x="24" y="76" width="11" height="11" rx="2"><title>2025-08-26</title></rect>
+  <rect class="day level-0" x="24" y="90" width="11" height="11" rx="2"><title>2025-08-27</title></rect>
   <rect class="day level-0" x="24" y="104" width="11" height="11" rx="2"><title>2025-08-28: 0.00%</title></rect>
   <rect class="day level-0" x="24" y="118" width="11" height="11" rx="2"><title>2025-08-29: 0.00%</title></rect>
   <rect class="day level-0" x="24" y="132" width="11" height="11" rx="2"><title>2025-08-30: 0.00%</title></rect>
@@ -390,14 +390,14 @@
   <rect class="day level-2" x="738" y="62" width="11" height="11" rx="2"><title>2026-08-17: 35.76%</title></rect>
   <rect class="day level-2" x="738" y="76" width="11" height="11" rx="2"><title>2026-08-18: 25.93%</title></rect>
   <rect class="day level-3" x="738" y="90" width="11" height="11" rx="2"><title>2026-08-19: 46.88%</title></rect>
-  <rect class="day level-4" x="738" y="104" width="11" height="11" rx="2"><title>2026-08-20: 69.40%</title></rect>
-  <rect class="day level-5" x="738" y="118" width="11" height="11" rx="2"><title>2026-08-21: 100.00%</title></rect>
-  <rect class="day level-3" x="738" y="132" width="11" height="11" rx="2"><title>2026-08-22: 43.65%</title></rect>
-  <rect class="day level-3" x="752" y="48" width="11" height="11" rx="2"><title>2026-08-23: 52.98%</title></rect>
-  <rect class="day level-0" x="752" y="62" width="11" height="11" rx="2"><title>2026-08-24: 0.00%</title></rect>
-  <rect class="day level-0" x="752" y="76" width="11" height="11" rx="2"><title>2026-08-25</title></rect>
-  <rect class="day level-0" x="752" y="90" width="11" height="11" rx="2"><title>2026-08-26</title></rect>
-  <rect class="day level-0" x="752" y="104" width="11" height="11" rx="2"><title>2026-08-27</title></rect>
+  <rect class="day level-3" x="738" y="104" width="11" height="11" rx="2"><title>2026-08-20: 58.03%</title></rect>
+  <rect class="day level-5" x="738" y="118" width="11" height="11" rx="2"><title>2026-08-21: 83.61%</title></rect>
+  <rect class="day level-2" x="738" y="132" width="11" height="11" rx="2"><title>2026-08-22: 36.50%</title></rect>
+  <rect class="day level-5" x="752" y="48" width="11" height="11" rx="2"><title>2026-08-23: 100.00%</title></rect>
+  <rect class="day level-5" x="752" y="62" width="11" height="11" rx="2"><title>2026-08-24: 92.83%</title></rect>
+  <rect class="day level-2" x="752" y="76" width="11" height="11" rx="2"><title>2026-08-25: 37.93%</title></rect>
+  <rect class="day level-3" x="752" y="90" width="11" height="11" rx="2"><title>2026-08-26: 48.64%</title></rect>
+  <rect class="day level-0" x="752" y="104" width="11" height="11" rx="2"><title>2026-08-27: 0.00%</title></rect>
   <rect class="day level-0" x="752" y="118" width="11" height="11" rx="2"><title>2026-08-28</title></rect>
   <rect class="day level-0" x="752" y="132" width="11" height="11" rx="2"><title>2026-08-29</title></rect>
   <text class="month" x="38" y="160">Sep</text>
