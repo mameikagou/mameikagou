@@ -6,8 +6,8 @@ Building full-stack experiences, AI tools, quant systems, and fun side projects.
 
 I previously interned at Douyin Risk Control, Meituan Service Retail, and Meituan Infrastructure R&D Platform, and currently work at Meituan Instashopping Tech.
 
-<a href="https://www.douyin.com/">
-  <img src="https://img.shields.io/badge/Douyin-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="Douyin" />
+<a href="https://www.bytedance.com/">
+  <img src="https://img.shields.io/badge/ByteDance-0099FF?style=flat-square&amp;logo=bytedance&amp;logoColor=white" alt="ByteDance" />
 </a>
 <a href="https://www.meituan.com/">
   <img src="https://img.shields.io/badge/Meituan-FFD100?style=flat-square&amp;logo=meituan&amp;logoColor=black" alt="Meituan" />
