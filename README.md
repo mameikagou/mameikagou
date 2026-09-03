@@ -36,7 +36,7 @@ I previously interned at Douyin Risk Control, Meituan Service Retail, and Meitua
 
 <img src="https://img.shields.io/badge/Quant_Research-131722?style=flat-square&amp;logo=tradingview&amp;logoColor=white" alt="Quantitative Research" />
 <img src="https://img.shields.io/badge/Microsoft_Qlib-0078D4?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Microsoft Qlib" />
-<img src="https://img.shields.io/badge/VectorBT_Pro-FF5722?style=flat-square&amp;logo=v&amp;logoColor=white" alt="VectorBT Pro" />
+<img src="https://img.shields.io/badge/VectorBT_Pro-181717?style=flat-square&amp;logo=v&amp;logoColor=white" alt="VectorBT Pro" />
 <img src="https://img.shields.io/badge/NautilusTrader-00B4D8?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="NautilusTrader" />
 <img src="https://img.shields.io/badge/WonderTrader-D9381E?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="WonderTrader" />
 
