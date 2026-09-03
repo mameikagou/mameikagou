@@ -2,6 +2,10 @@
 
 # Hi there, I'm Mr.lonely 👋
 
+<a href="https://github.com/mameikagou">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2800&amp;pause=1200&amp;color=0099FF&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=%3E+Full-Stack+%26+Distributed+Systems;%3E+AI-Native+Multi-Agent+Systems;%3E+Quantitative+Trading+%26+Alpha+Research" alt="Typing SVG" />
+</a>
+
 Building full-stack experiences, AI tools, quant systems, and fun side projects.
 
 I previously interned at Douyin Risk Control, Meituan Service Retail, and Meituan Infrastructure R&D Platform, and currently work at Meituan Instashopping Tech.
