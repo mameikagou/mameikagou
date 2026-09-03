@@ -187,6 +187,35 @@ export function renderSvg(days, today) {
     );
   }
 
+  // Calculate statistics
+  let maxPercent = 0;
+  for (const [d, v] of Object.entries(days)) {
+    if (d >= visibleStart && d <= today) {
+      const p = Number(v?.percent) || 0;
+      if (p > maxPercent) maxPercent = p;
+    }
+  }
+
+  // Calculate streak ending today or yesterday
+  let streak = 0;
+  let checkCursor = (Number(days[today]?.percent) || 0) > 0 ? today : isoDate(addDays(today, -1));
+  while (checkCursor >= visibleStart && (Number(days[checkCursor]?.percent) || 0) > 0) {
+    streak += 1;
+    checkCursor = isoDate(addDays(checkCursor, -1));
+  }
+
+  // Generate recent 7 days ticker
+  const tickerItems = [];
+  for (let i = 1; i <= 7; i += 1) {
+    const d = isoDate(addDays(today, -i));
+    const val = Number(days[d]?.percent) || 0;
+    tickerItems.push({ date: d, percent: val });
+  }
+
+  const tickerElements = tickerItems.map((item, idx) => {
+    return `<text class="ticker-item ticker-${idx}" x="766" y="27" text-anchor="end">Recent · ${item.date}: ${item.percent.toFixed(1)}%</text>`;
+  }).join("\n  ");
+
   return `<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" viewBox="0 0 ${width} ${height}">
   <title id="title">Codex Token Activity</title>
@@ -195,6 +224,27 @@ export function renderSvg(days, today) {
     .background { fill: #ffffff; }
     .heading { fill: #24292f; font: 600 15px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
     .caption, .month { fill: #6e7781; font: 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .stat-badge { fill: #57606a; font: 500 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .ticker-item {
+      font: 600 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      fill: #0969da;
+      opacity: 0;
+      animation: tickerFade 14s infinite;
+    }
+    .ticker-0 { animation-delay: 0s; }
+    .ticker-1 { animation-delay: 2s; }
+    .ticker-2 { animation-delay: 4s; }
+    .ticker-3 { animation-delay: 6s; }
+    .ticker-4 { animation-delay: 8s; }
+    .ticker-5 { animation-delay: 10s; }
+    .ticker-6 { animation-delay: 12s; }
+    @keyframes tickerFade {
+      0% { opacity: 0; }
+      2% { opacity: 1; }
+      12% { opacity: 1; }
+      14% { opacity: 0; }
+      100% { opacity: 0; }
+    }
     .day { stroke: rgba(27, 31, 36, 0.04); stroke-width: 1; }
     .level-0 { fill: #f3f4f6; }
     .level-1 { fill: #dbeafe; }
@@ -206,6 +256,8 @@ export function renderSvg(days, today) {
       .background { fill: #0d1117; }
       .heading { fill: #e6edf3; }
       .caption, .month { fill: #8b949e; }
+      .stat-badge { fill: #8b949e; }
+      .ticker-item { fill: #58a6ff; }
       .day { stroke: rgba(240, 246, 252, 0.04); }
       .level-0 { fill: #21262d; }
       .level-1 { fill: #0c2d6b; }
@@ -218,6 +270,8 @@ export function renderSvg(days, today) {
   <rect class="background" width="${width}" height="${height}" rx="12" />
   <text class="heading" x="24" y="27">Codex Token Activity</text>
   <text class="caption" x="205" y="27">daily usage · last 365 days</text>
+  <text class="stat-badge" x="530" y="27" text-anchor="end">Peak: ${maxPercent.toFixed(1)}% · Streak: ${streak}d</text>
+  ${tickerElements}
   ${cells.join("\n  ")}
   ${monthLabels.join("\n  ")}
 </svg>

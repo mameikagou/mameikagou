@@ -30,23 +30,24 @@ I previously interned at Douyin Risk Control, Meituan Service Retail, and Meitua
 <img src="https://img.shields.io/badge/Ghostty-3551F3?style=flat-square&amp;logo=ghostty&amp;logoColor=white" alt="Ghostty" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="Visual Studio Code" />
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="macOS" />
-<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&amp;logo=windows11&amp;logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/WSL2-E95420?style=flat-square&amp;logo=ubuntu&amp;logoColor=white" alt="WSL2" />
 
 <br />
 
 <img src="https://img.shields.io/badge/Quant_Research-131722?style=flat-square&amp;logo=tradingview&amp;logoColor=white" alt="Quantitative Research" />
-<img src="https://img.shields.io/badge/Qlib-0078D4?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Microsoft Qlib" />
+<img src="https://img.shields.io/badge/Microsoft_Qlib-0078D4?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Microsoft Qlib" />
+<img src="https://img.shields.io/badge/VectorBT_Pro-FF5722?style=flat-square&amp;logo=v&amp;logoColor=white" alt="VectorBT Pro" />
 <img src="https://img.shields.io/badge/NautilusTrader-00B4D8?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="NautilusTrader" />
 <img src="https://img.shields.io/badge/WonderTrader-D9381E?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="WonderTrader" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="pandas" />
 
 </div>
 
 ## Codex Token Activity
 
 <p align="center">
-  <img width="100%" src="./assets/codex-token-activity.svg" alt="Daily Codex token activity over the last 365 days" />
+  <a href="https://raw.githubusercontent.com/mameikagou/mameikagou/main/assets/codex-token-activity.svg" target="_blank" title="Click to view interactive full-size SVG with daily hover stats">
+    <img width="100%" src="./assets/codex-token-activity.svg" alt="Daily Codex token activity over the last 365 days" />
+  </a>
 </p>
 
 ## GitHub at a glance
