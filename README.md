@@ -24,6 +24,7 @@ I previously interned at Douyin Risk Control, Meituan Service Retail, and Meitua
 
 <br />
 
+<img src="https://img.shields.io/badge/Multica-166EC2?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjYiIHN0cm9rZS1saW5lY2FwPSJidXR0Ij48bGluZSB4MT0iMTIiIHkxPSIyIiB4Mj0iMTIiIHkyPSIyMiIvPjxsaW5lIHgxPSIyIiB5MT0iMTIiIHgyPSIyMiIgeTI9IjEyIi8%2BPGxpbmUgeDE9IjQuOTMiIHkxPSI0LjkzIiB4Mj0iMTkuMDciIHkyPSIxOS4wNyIvPjxsaW5lIHgxPSI0LjkzIiB5MT0iMTkuMDciIHgyPSIxOS4wNyIgeTI9IjQuOTMiLz48L3N2Zz4%3D" alt="Multica" />
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&amp;logo=anthropic&amp;logoColor=white" alt="Claude Code" />
 <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&amp;logo=gnometerminal&amp;logoColor=white" alt="Codex" />
 <img src="https://img.shields.io/badge/Ghostty-3551F3?style=flat-square&amp;logo=ghostty&amp;logoColor=white" alt="Ghostty" />
@@ -35,10 +36,10 @@ I previously interned at Douyin Risk Control, Meituan Service Retail, and Meitua
 
 <img src="https://img.shields.io/badge/Quant_Research-131722?style=flat-square&amp;logo=tradingview&amp;logoColor=white" alt="Quantitative Research" />
 <img src="https://img.shields.io/badge/Qlib-0078D4?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Microsoft Qlib" />
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/NautilusTrader-00B4D8?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="NautilusTrader" />
+<img src="https://img.shields.io/badge/WonderTrader-D9381E?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="WonderTrader" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="pandas" />
 
 </div>
 
