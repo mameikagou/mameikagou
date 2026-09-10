@@ -52,8 +52,8 @@
   <rect class="background" width="790" height="176" rx="12" />
   <text class="heading" x="24" y="27">Codex Token Activity</text>
   <text class="caption" x="205" y="27">daily usage · last 365 days</text>
-  <text class="stat-badge" x="530" y="27" text-anchor="end">Peak: 100.0% · Streak: 38d</text>
-  <text class="ticker-item ticker-0" x="766" y="27" text-anchor="end">Recent · 2026-09-09: 62.6%</text>
+  <text class="stat-badge" x="530" y="27" text-anchor="end">Peak: 100.0% · Streak: 39d</text>
+  <text class="ticker-item ticker-0" x="766" y="27" text-anchor="end">Recent · 2026-09-09: 92.6%</text>
   <text class="ticker-item ticker-1" x="766" y="27" text-anchor="end">Recent · 2026-09-08: 71.0%</text>
   <text class="ticker-item ticker-2" x="766" y="27" text-anchor="end">Recent · 2026-09-07: 80.4%</text>
   <text class="ticker-item ticker-3" x="766" y="27" text-anchor="end">Recent · 2026-09-06: 100.0%</text>
@@ -427,8 +427,8 @@
   <rect class="day level-5" x="752" y="48" width="11" height="11" rx="2"><title>2026-09-06: 100.00%</title></rect>
   <rect class="day level-5" x="752" y="62" width="11" height="11" rx="2"><title>2026-09-07: 80.37%</title></rect>
   <rect class="day level-4" x="752" y="76" width="11" height="11" rx="2"><title>2026-09-08: 70.96%</title></rect>
-  <rect class="day level-4" x="752" y="90" width="11" height="11" rx="2"><title>2026-09-09: 62.60%</title></rect>
-  <rect class="day level-0" x="752" y="104" width="11" height="11" rx="2"><title>2026-09-10: 0.00%</title></rect>
+  <rect class="day level-5" x="752" y="90" width="11" height="11" rx="2"><title>2026-09-09: 92.57%</title></rect>
+  <rect class="day level-2" x="752" y="104" width="11" height="11" rx="2"><title>2026-09-10: 31.25%</title></rect>
   <rect class="day level-0" x="752" y="118" width="11" height="11" rx="2"><title>2026-09-11</title></rect>
   <rect class="day level-0" x="752" y="132" width="11" height="11" rx="2"><title>2026-09-12</title></rect>
   <text class="month" x="66" y="160">Oct</text>
