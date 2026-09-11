@@ -46,6 +46,14 @@ I previously interned at Douyin Risk Control, Meituan Service Retail, and Meitua
 
 </div>
 
+## Open Source Contributions
+
+<p align="center">
+  <a href="https://github.com/multica-ai/multica/pulls?q=is%3Apr+author%3Amameikagou+is%3Amerged+created%3A%3E%3D2026-08-25">
+    <img src="https://img.shields.io/badge/Multica-9_Merged_PRs-166EC2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="9 merged pull requests to Multica" />
+  </a>
+</p>
+
 ## Codex Token Activity
 
 <p align="center">
