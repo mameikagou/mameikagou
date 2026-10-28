@@ -52,18 +52,18 @@
   <rect class="background" width="790" height="176" rx="12" />
   <text class="heading" x="24" y="27">Codex Token Activity</text>
   <text class="caption" x="205" y="27">daily usage · last 365 days</text>
-  <text class="stat-badge" x="530" y="27" text-anchor="end">Peak: 100.0% · Streak: 85d</text>
-  <text class="ticker-item ticker-0" x="766" y="27" text-anchor="end">Recent · 2026-10-26: 7.2%</text>
-  <text class="ticker-item ticker-1" x="766" y="27" text-anchor="end">Recent · 2026-10-25: 27.9%</text>
-  <text class="ticker-item ticker-2" x="766" y="27" text-anchor="end">Recent · 2026-10-24: 2.6%</text>
-  <text class="ticker-item ticker-3" x="766" y="27" text-anchor="end">Recent · 2026-10-23: 100.0%</text>
-  <text class="ticker-item ticker-4" x="766" y="27" text-anchor="end">Recent · 2026-10-22: 25.6%</text>
-  <text class="ticker-item ticker-5" x="766" y="27" text-anchor="end">Recent · 2026-10-21: 59.0%</text>
-  <text class="ticker-item ticker-6" x="766" y="27" text-anchor="end">Recent · 2026-10-20: 85.1%</text>
+  <text class="stat-badge" x="530" y="27" text-anchor="end">Peak: 100.0% · Streak: 87d</text>
+  <text class="ticker-item ticker-0" x="766" y="27" text-anchor="end">Recent · 2026-10-28: 100.0%</text>
+  <text class="ticker-item ticker-1" x="766" y="27" text-anchor="end">Recent · 2026-10-27: 78.5%</text>
+  <text class="ticker-item ticker-2" x="766" y="27" text-anchor="end">Recent · 2026-10-26: 45.1%</text>
+  <text class="ticker-item ticker-3" x="766" y="27" text-anchor="end">Recent · 2026-10-25: 26.6%</text>
+  <text class="ticker-item ticker-4" x="766" y="27" text-anchor="end">Recent · 2026-10-24: 2.6%</text>
+  <text class="ticker-item ticker-5" x="766" y="27" text-anchor="end">Recent · 2026-10-23: 100.0%</text>
+  <text class="ticker-item ticker-6" x="766" y="27" text-anchor="end">Recent · 2026-10-22: 16.0%</text>
   <rect class="day level-0" x="24" y="48" width="11" height="11" rx="2"><title>2025-10-26</title></rect>
   <rect class="day level-0" x="24" y="62" width="11" height="11" rx="2"><title>2025-10-27</title></rect>
-  <rect class="day level-0" x="24" y="76" width="11" height="11" rx="2"><title>2025-10-28: 0.00%</title></rect>
-  <rect class="day level-0" x="24" y="90" width="11" height="11" rx="2"><title>2025-10-29: 0.00%</title></rect>
+  <rect class="day level-0" x="24" y="76" width="11" height="11" rx="2"><title>2025-10-28</title></rect>
+  <rect class="day level-0" x="24" y="90" width="11" height="11" rx="2"><title>2025-10-29</title></rect>
   <rect class="day level-0" x="24" y="104" width="11" height="11" rx="2"><title>2025-10-30: 0.00%</title></rect>
   <rect class="day level-0" x="24" y="118" width="11" height="11" rx="2"><title>2025-10-31: 0.00%</title></rect>
   <rect class="day level-0" x="24" y="132" width="11" height="11" rx="2"><title>2025-11-01: 0.00%</title></rect>
@@ -394,41 +394,41 @@
   <rect class="day level-1" x="682" y="76" width="11" height="11" rx="2"><title>2026-09-22: 18.76%</title></rect>
   <rect class="day level-3" x="682" y="90" width="11" height="11" rx="2"><title>2026-09-23: 42.81%</title></rect>
   <rect class="day level-2" x="682" y="104" width="11" height="11" rx="2"><title>2026-09-24: 21.10%</title></rect>
-  <rect class="day level-1" x="682" y="118" width="11" height="11" rx="2"><title>2026-09-25: 1.35%</title></rect>
-  <rect class="day level-3" x="682" y="132" width="11" height="11" rx="2"><title>2026-09-26: 40.70%</title></rect>
-  <rect class="day level-5" x="696" y="48" width="11" height="11" rx="2"><title>2026-09-27: 100.00%</title></rect>
-  <rect class="day level-3" x="696" y="62" width="11" height="11" rx="2"><title>2026-09-28: 45.58%</title></rect>
-  <rect class="day level-5" x="696" y="76" width="11" height="11" rx="2"><title>2026-09-29: 80.03%</title></rect>
-  <rect class="day level-4" x="696" y="90" width="11" height="11" rx="2"><title>2026-09-30: 68.06%</title></rect>
-  <rect class="day level-1" x="696" y="104" width="11" height="11" rx="2"><title>2026-10-01: 13.91%</title></rect>
-  <rect class="day level-3" x="696" y="118" width="11" height="11" rx="2"><title>2026-10-02: 47.30%</title></rect>
-  <rect class="day level-3" x="696" y="132" width="11" height="11" rx="2"><title>2026-10-03: 51.01%</title></rect>
-  <rect class="day level-2" x="710" y="48" width="11" height="11" rx="2"><title>2026-10-04: 34.23%</title></rect>
-  <rect class="day level-2" x="710" y="62" width="11" height="11" rx="2"><title>2026-10-05: 23.61%</title></rect>
-  <rect class="day level-3" x="710" y="76" width="11" height="11" rx="2"><title>2026-10-06: 45.66%</title></rect>
-  <rect class="day level-1" x="710" y="90" width="11" height="11" rx="2"><title>2026-10-07: 18.62%</title></rect>
-  <rect class="day level-2" x="710" y="104" width="11" height="11" rx="2"><title>2026-10-08: 35.92%</title></rect>
-  <rect class="day level-2" x="710" y="118" width="11" height="11" rx="2"><title>2026-10-09: 36.52%</title></rect>
-  <rect class="day level-2" x="710" y="132" width="11" height="11" rx="2"><title>2026-10-10: 31.37%</title></rect>
-  <rect class="day level-2" x="724" y="48" width="11" height="11" rx="2"><title>2026-10-11: 35.04%</title></rect>
-  <rect class="day level-2" x="724" y="62" width="11" height="11" rx="2"><title>2026-10-12: 29.73%</title></rect>
-  <rect class="day level-3" x="724" y="76" width="11" height="11" rx="2"><title>2026-10-13: 42.01%</title></rect>
-  <rect class="day level-3" x="724" y="90" width="11" height="11" rx="2"><title>2026-10-14: 42.73%</title></rect>
-  <rect class="day level-2" x="724" y="104" width="11" height="11" rx="2"><title>2026-10-15: 38.23%</title></rect>
-  <rect class="day level-3" x="724" y="118" width="11" height="11" rx="2"><title>2026-10-16: 45.23%</title></rect>
-  <rect class="day level-2" x="724" y="132" width="11" height="11" rx="2"><title>2026-10-17: 32.08%</title></rect>
-  <rect class="day level-2" x="738" y="48" width="11" height="11" rx="2"><title>2026-10-18: 24.41%</title></rect>
-  <rect class="day level-2" x="738" y="62" width="11" height="11" rx="2"><title>2026-10-19: 34.75%</title></rect>
-  <rect class="day level-5" x="738" y="76" width="11" height="11" rx="2"><title>2026-10-20: 85.07%</title></rect>
-  <rect class="day level-3" x="738" y="90" width="11" height="11" rx="2"><title>2026-10-21: 59.02%</title></rect>
-  <rect class="day level-2" x="738" y="104" width="11" height="11" rx="2"><title>2026-10-22: 25.63%</title></rect>
+  <rect class="day level-1" x="682" y="118" width="11" height="11" rx="2"><title>2026-09-25: 0.84%</title></rect>
+  <rect class="day level-2" x="682" y="132" width="11" height="11" rx="2"><title>2026-09-26: 25.38%</title></rect>
+  <rect class="day level-4" x="696" y="48" width="11" height="11" rx="2"><title>2026-09-27: 62.37%</title></rect>
+  <rect class="day level-2" x="696" y="62" width="11" height="11" rx="2"><title>2026-09-28: 28.43%</title></rect>
+  <rect class="day level-3" x="696" y="76" width="11" height="11" rx="2"><title>2026-09-29: 49.91%</title></rect>
+  <rect class="day level-3" x="696" y="90" width="11" height="11" rx="2"><title>2026-09-30: 42.44%</title></rect>
+  <rect class="day level-1" x="696" y="104" width="11" height="11" rx="2"><title>2026-10-01: 8.68%</title></rect>
+  <rect class="day level-2" x="696" y="118" width="11" height="11" rx="2"><title>2026-10-02: 29.50%</title></rect>
+  <rect class="day level-2" x="696" y="132" width="11" height="11" rx="2"><title>2026-10-03: 31.81%</title></rect>
+  <rect class="day level-2" x="710" y="48" width="11" height="11" rx="2"><title>2026-10-04: 21.35%</title></rect>
+  <rect class="day level-1" x="710" y="62" width="11" height="11" rx="2"><title>2026-10-05: 14.72%</title></rect>
+  <rect class="day level-2" x="710" y="76" width="11" height="11" rx="2"><title>2026-10-06: 28.48%</title></rect>
+  <rect class="day level-1" x="710" y="90" width="11" height="11" rx="2"><title>2026-10-07: 11.61%</title></rect>
+  <rect class="day level-2" x="710" y="104" width="11" height="11" rx="2"><title>2026-10-08: 22.40%</title></rect>
+  <rect class="day level-2" x="710" y="118" width="11" height="11" rx="2"><title>2026-10-09: 22.78%</title></rect>
+  <rect class="day level-1" x="710" y="132" width="11" height="11" rx="2"><title>2026-10-10: 19.57%</title></rect>
+  <rect class="day level-2" x="724" y="48" width="11" height="11" rx="2"><title>2026-10-11: 21.85%</title></rect>
+  <rect class="day level-1" x="724" y="62" width="11" height="11" rx="2"><title>2026-10-12: 18.54%</title></rect>
+  <rect class="day level-2" x="724" y="76" width="11" height="11" rx="2"><title>2026-10-13: 26.20%</title></rect>
+  <rect class="day level-2" x="724" y="90" width="11" height="11" rx="2"><title>2026-10-14: 26.65%</title></rect>
+  <rect class="day level-2" x="724" y="104" width="11" height="11" rx="2"><title>2026-10-15: 23.84%</title></rect>
+  <rect class="day level-2" x="724" y="118" width="11" height="11" rx="2"><title>2026-10-16: 28.21%</title></rect>
+  <rect class="day level-2" x="724" y="132" width="11" height="11" rx="2"><title>2026-10-17: 20.01%</title></rect>
+  <rect class="day level-1" x="738" y="48" width="11" height="11" rx="2"><title>2026-10-18: 15.22%</title></rect>
+  <rect class="day level-2" x="738" y="62" width="11" height="11" rx="2"><title>2026-10-19: 21.67%</title></rect>
+  <rect class="day level-3" x="738" y="76" width="11" height="11" rx="2"><title>2026-10-20: 53.05%</title></rect>
+  <rect class="day level-2" x="738" y="90" width="11" height="11" rx="2"><title>2026-10-21: 36.81%</title></rect>
+  <rect class="day level-1" x="738" y="104" width="11" height="11" rx="2"><title>2026-10-22: 15.98%</title></rect>
   <rect class="day level-5" x="738" y="118" width="11" height="11" rx="2"><title>2026-10-23: 100.00%</title></rect>
   <rect class="day level-1" x="738" y="132" width="11" height="11" rx="2"><title>2026-10-24: 2.56%</title></rect>
-  <rect class="day level-2" x="752" y="48" width="11" height="11" rx="2"><title>2026-10-25: 27.87%</title></rect>
-  <rect class="day level-1" x="752" y="62" width="11" height="11" rx="2"><title>2026-10-26: 7.24%</title></rect>
-  <rect class="day level-0" x="752" y="76" width="11" height="11" rx="2"><title>2026-10-27: 0.00%</title></rect>
-  <rect class="day level-0" x="752" y="90" width="11" height="11" rx="2"><title>2026-10-28</title></rect>
-  <rect class="day level-0" x="752" y="104" width="11" height="11" rx="2"><title>2026-10-29</title></rect>
+  <rect class="day level-2" x="752" y="48" width="11" height="11" rx="2"><title>2026-10-25: 26.62%</title></rect>
+  <rect class="day level-3" x="752" y="62" width="11" height="11" rx="2"><title>2026-10-26: 45.07%</title></rect>
+  <rect class="day level-4" x="752" y="76" width="11" height="11" rx="2"><title>2026-10-27: 78.46%</title></rect>
+  <rect class="day level-5" x="752" y="90" width="11" height="11" rx="2"><title>2026-10-28: 100.00%</title></rect>
+  <rect class="day level-0" x="752" y="104" width="11" height="11" rx="2"><title>2026-10-29: 0.00%</title></rect>
   <rect class="day level-0" x="752" y="118" width="11" height="11" rx="2"><title>2026-10-30</title></rect>
   <rect class="day level-0" x="752" y="132" width="11" height="11" rx="2"><title>2026-10-31</title></rect>
   <text class="month" x="24" y="160">Nov</text>
