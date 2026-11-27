@@ -52,20 +52,20 @@
   <rect class="background" width="790" height="176" rx="12" />
   <text class="heading" x="24" y="27">Codex Token Activity</text>
   <text class="caption" x="205" y="27">daily usage · last 365 days</text>
-  <text class="stat-badge" x="530" y="27" text-anchor="end">Peak: 100.0% · Streak: 115d</text>
-  <text class="ticker-item ticker-0" x="766" y="27" text-anchor="end">Recent · 2026-11-25: 86.2%</text>
-  <text class="ticker-item ticker-1" x="766" y="27" text-anchor="end">Recent · 2026-11-24: 41.2%</text>
-  <text class="ticker-item ticker-2" x="766" y="27" text-anchor="end">Recent · 2026-11-23: 48.8%</text>
-  <text class="ticker-item ticker-3" x="766" y="27" text-anchor="end">Recent · 2026-11-22: 100.0%</text>
-  <text class="ticker-item ticker-4" x="766" y="27" text-anchor="end">Recent · 2026-11-21: 2.2%</text>
-  <text class="ticker-item ticker-5" x="766" y="27" text-anchor="end">Recent · 2026-11-20: 8.3%</text>
-  <text class="ticker-item ticker-6" x="766" y="27" text-anchor="end">Recent · 2026-11-19: 3.8%</text>
+  <text class="stat-badge" x="530" y="27" text-anchor="end">Peak: 100.0% · Streak: 117d</text>
+  <text class="ticker-item ticker-0" x="766" y="27" text-anchor="end">Recent · 2026-11-27: 18.5%</text>
+  <text class="ticker-item ticker-1" x="766" y="27" text-anchor="end">Recent · 2026-11-26: 21.8%</text>
+  <text class="ticker-item ticker-2" x="766" y="27" text-anchor="end">Recent · 2026-11-25: 100.0%</text>
+  <text class="ticker-item ticker-3" x="766" y="27" text-anchor="end">Recent · 2026-11-24: 44.3%</text>
+  <text class="ticker-item ticker-4" x="766" y="27" text-anchor="end">Recent · 2026-11-23: 2.2%</text>
+  <text class="ticker-item ticker-5" x="766" y="27" text-anchor="end">Recent · 2026-11-22: 4.5%</text>
+  <text class="ticker-item ticker-6" x="766" y="27" text-anchor="end">Recent · 2026-11-21: 2.2%</text>
   <rect class="day level-0" x="24" y="48" width="11" height="11" rx="2"><title>2025-11-23</title></rect>
   <rect class="day level-0" x="24" y="62" width="11" height="11" rx="2"><title>2025-11-24</title></rect>
   <rect class="day level-0" x="24" y="76" width="11" height="11" rx="2"><title>2025-11-25</title></rect>
   <rect class="day level-0" x="24" y="90" width="11" height="11" rx="2"><title>2025-11-26</title></rect>
-  <rect class="day level-0" x="24" y="104" width="11" height="11" rx="2"><title>2025-11-27: 0.00%</title></rect>
-  <rect class="day level-0" x="24" y="118" width="11" height="11" rx="2"><title>2025-11-28: 0.00%</title></rect>
+  <rect class="day level-0" x="24" y="104" width="11" height="11" rx="2"><title>2025-11-27</title></rect>
+  <rect class="day level-0" x="24" y="118" width="11" height="11" rx="2"><title>2025-11-28</title></rect>
   <rect class="day level-0" x="24" y="132" width="11" height="11" rx="2"><title>2025-11-29: 0.00%</title></rect>
   <rect class="day level-0" x="38" y="48" width="11" height="11" rx="2"><title>2025-11-30: 0.00%</title></rect>
   <rect class="day level-0" x="38" y="62" width="11" height="11" rx="2"><title>2025-12-01: 0.00%</title></rect>
@@ -424,13 +424,13 @@
   <rect class="day level-1" x="738" y="104" width="11" height="11" rx="2"><title>2026-11-19: 3.75%</title></rect>
   <rect class="day level-1" x="738" y="118" width="11" height="11" rx="2"><title>2026-11-20: 8.26%</title></rect>
   <rect class="day level-1" x="738" y="132" width="11" height="11" rx="2"><title>2026-11-21: 2.23%</title></rect>
-  <rect class="day level-5" x="752" y="48" width="11" height="11" rx="2"><title>2026-11-22: 100.00%</title></rect>
-  <rect class="day level-3" x="752" y="62" width="11" height="11" rx="2"><title>2026-11-23: 48.84%</title></rect>
-  <rect class="day level-3" x="752" y="76" width="11" height="11" rx="2"><title>2026-11-24: 41.23%</title></rect>
-  <rect class="day level-5" x="752" y="90" width="11" height="11" rx="2"><title>2026-11-25: 86.20%</title></rect>
-  <rect class="day level-0" x="752" y="104" width="11" height="11" rx="2"><title>2026-11-26: 0.00%</title></rect>
-  <rect class="day level-0" x="752" y="118" width="11" height="11" rx="2"><title>2026-11-27</title></rect>
-  <rect class="day level-0" x="752" y="132" width="11" height="11" rx="2"><title>2026-11-28</title></rect>
+  <rect class="day level-1" x="752" y="48" width="11" height="11" rx="2"><title>2026-11-22: 4.46%</title></rect>
+  <rect class="day level-1" x="752" y="62" width="11" height="11" rx="2"><title>2026-11-23: 2.18%</title></rect>
+  <rect class="day level-3" x="752" y="76" width="11" height="11" rx="2"><title>2026-11-24: 44.30%</title></rect>
+  <rect class="day level-5" x="752" y="90" width="11" height="11" rx="2"><title>2026-11-25: 100.00%</title></rect>
+  <rect class="day level-2" x="752" y="104" width="11" height="11" rx="2"><title>2026-11-26: 21.77%</title></rect>
+  <rect class="day level-1" x="752" y="118" width="11" height="11" rx="2"><title>2026-11-27: 18.51%</title></rect>
+  <rect class="day level-0" x="752" y="132" width="11" height="11" rx="2"><title>2026-11-28: 0.00%</title></rect>
   <text class="month" x="38" y="160">Dec</text>
   <text class="month" x="94" y="160">Jan</text>
   <text class="month" x="164" y="160">Feb</text>
